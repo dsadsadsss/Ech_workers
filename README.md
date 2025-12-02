@@ -9,3 +9,6 @@ ech://xxx.workers.dev:443|令牌|ip.sb|dns.alidns.com/dns-query|cloudflare-ech.c
 ech://ech.hkvip.ip-ddns.com:443||ip.sb|dns.alidns.com/dns-query|gitlab.io#日本|KEJILAND
 ```
 
+订阅服务器搭建再cf上即可，把节点链接添加到服务器
+
+https://github.com/dsadsadsss/workers-sub-for-wanju.git
